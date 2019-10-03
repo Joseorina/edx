@@ -1,0 +1,4 @@
+repeat until no swaps
+    for i from 0 to n-1
+        if ith and i+th elements out of order
+            swap them
